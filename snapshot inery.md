@@ -45,4 +45,5 @@ tail -f blockchain/nodine.log
 https://github.com/glngptrsdwa/inery-testnet#create-wallet
 
 
-thanks to bang jambulmerah snapshotnya
+thanks to bang jambulmerah snapshotnya https://jambulmerah.dev/
+thanks to nodeX capital https://nodex.codes/
