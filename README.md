@@ -87,7 +87,7 @@ Ini Aga Lama jadi buka tab session baru aja biar nodenyea ke pantau
 
 
 ## kalo ini udah kelar langsung pake snapshot aja biar ga nunggu lama
-## update inery yg mau baru install bisa menggunakan snapshot dengan ketinggian block 951801
+update inery yg mau baru install bisa menggunakan snapshot dengan ketinggian block 951801
 
 Sebelumnya cek block dulu:
 
