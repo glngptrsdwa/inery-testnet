@@ -25,7 +25,7 @@ Minimum
 
 ## Edit Firewall Port
 ```
-ufw allow 22 && ufw allow 8888 && ufw allow 9010 && ufw enable -y
+ufw allow 22 && ufw allow 8888 && ufw allow 9010 && ufw enable
 ```
 
 # Installing Node
