@@ -44,6 +44,7 @@ tail -f blockchain/nodine.log
 ## tinggal tunggu block nya sync , kalo udah sync bisa lanjut ke step wallet
 https://github.com/glngptrsdwa/inery-testnet#create-wallet
 
-
+## 
 thanks to bang jambulmerah snapshotnya https://jambulmerah.dev/
+##
 thanks to nodeX capital https://nodex.codes/
