@@ -202,6 +202,7 @@ thanks to bang jambulmerah snapshotnya https://jambulmerah.dev/
 ##
 thanks to nodeX capital https://nodex.codes/
 ##
-thanks to bangpateng
+thanks to bangpateng https://github.com/bangpateng/
 ##
-thanks to dexa555 (airdrop sultan)
+thanks to dexa airdrop sultan https://github.com/nadi555
+
