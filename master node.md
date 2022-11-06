@@ -6,16 +6,16 @@
 
 
 ## Hardware Requirement
-|Minimum|
-|- Memory: 8 GB RAM|
-|- CPU: 4 Core|
-|- Disk: 250 GB SSD Storage|
-|- Bandwidth: 1 Gbps buat Download/100 Mbps for Upload|
+Minimum
+- Memory: 8 GB RAM
+- CPU: 4 Core
+- Disk: 250 GB SSD Storage
+- Bandwidth: 1 Gbps buat Download/100 Mbps for Upload
 
 ## Software Requirement
 
-|Minimum|
-| ------------ | ------------ |
+Minimum
+
 | OS |  Ubuntu 18.04 or Ubuntu 20.04  (don't use ubuntu 22.04 because of an error when installing clang 7) |
 
 ## Update Package
