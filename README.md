@@ -1,5 +1,3 @@
-# inery-testnet
-
 
 # INERY TESTNET
 <p style="font-size:14px" align="left">
