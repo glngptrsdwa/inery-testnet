@@ -73,7 +73,7 @@ sudo nano tools/config.json
   <img height="auto" height="auto" src="https://user-images.githubusercontent.com/38981255/184290164-85371bac-f97a-4f8d-8cf8-63e5b5297f83.PNG">
 </p>
 
-IP di PEER_ADDRESS ganti pake IP Private kalo yang pake azure kalau yang pake cantabo masukin IP Public
+IP di PEER_ADDRESS ganti pake IP Private kalo yang pake azure kalau yang pake cantabo masukin IP Public , vps ionos juga bisa masukin ip host kalian
 
 ## Screen Master Node
 ```
