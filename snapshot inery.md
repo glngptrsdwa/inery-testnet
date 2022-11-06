@@ -1,4 +1,4 @@
-update inery yg mau baru install bisa menggunakan snapshot dengan ketinggian block 951801
+## update inery yg mau baru install bisa menggunakan snapshot dengan ketinggian block 951801
 
 Sebelumnya cek block dulu:
 
@@ -43,3 +43,6 @@ tail -f blockchain/nodine.log
 
 ## tinggal tunggu block nya sync , kalo udah sync bisa lanjut ke step wallet
 https://github.com/glngptrsdwa/inery-testnet#create-wallet
+
+
+thanks to bang jambulmerah snapshotnya
